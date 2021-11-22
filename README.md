@@ -21,8 +21,8 @@ To design and generate your own maze follow the following steps,
 
 3. Open up terminal in the `gmaze`folder and type the following command.
 
-   ```sh
-   ./setup.sh
+   ```
+   source ./setup.sh
    ```
 
 4. Now `Gazebo` will open up. On top right corner of your Gazebo instance you will be able to see three buttons.
