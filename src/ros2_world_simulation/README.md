@@ -18,12 +18,6 @@ ROS 2 Package to Simulate a World File in Gazebo Simulation. One can put any <co
 * [Launch Arguments](#arg) <br/>
 
 
-## Demonstration <a name="demo"></a>
-Demonstration of `worlds/racetrack_day.world` simulation.<br/>
-
-<img src="https://github.com/ANI717/ANI717_Robotics/blob/main/world_simulation.jpg" alt="World Simulation" class="inline"/><br/>
-
-
 ## Install Dependency <a name="install"></a>
 Install ROS2 dependency.<br/>
 ```
